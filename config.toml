@@ -1,4 +1,4 @@
-baseurl = "https://roboticist-info-buildrobotz.on.drv.tw/www.roboticist.info/"
+baseurl = "www.roboticist.info/"
 title = "Roboticist.Info"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"

@@ -2,13 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Roboticist.Info</title>
-    <link>https://roboticist-info-buildrobotz.on.drv.tw/www.roboticist.info/tags/</link>
+    <link>www.roboticist.info/tags/</link>
     <description>Recent content in Tags on Roboticist.Info</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://roboticist-info-buildrobotz.on.drv.tw/www.roboticist.info/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="www.roboticist.info/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
